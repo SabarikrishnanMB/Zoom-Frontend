@@ -1,0 +1,14 @@
+.signup{
+    background-color: #f26d21;
+    color:#fff;
+    border-radius: 20px;
+}
+.signin{
+    
+border-radius: 20px;
+}
+.navtop{
+    background-color: rgba(255, 255, 255, 0.253);
+    backdrop-filter: blur(5px);
+    box-shadow: 20px 20px 22px rgba(0, 0, 0, 0.123);
+}

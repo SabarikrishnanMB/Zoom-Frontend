@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 5%
+}
+.register{
+    background-color: #f26d21;
+    color:#fff;
+    border-radius: 20px;
+    border-bottom: 2px solid rgb(185, 74, 0);
+    
+}

@@ -1,0 +1,24 @@
+.navbarpro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 12px;
+    background-color: #2b2c2e;
+    color: #fff;
+
+}
+.icons{
+    text-align: center;
+    cursor: pointer;
+
+}
+.logout{
+ cursor: pointer;
+}
+.profile{
+    cursor: pointer;
+}
+.home{
+    cursor: pointer;
+}

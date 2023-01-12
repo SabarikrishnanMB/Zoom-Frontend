@@ -1,0 +1,12 @@
+.circle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.circletext{
+    text-align: center;
+}
+.circleimg{
+    pointer-events: none;
+}
